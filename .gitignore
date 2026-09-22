@@ -1,0 +1,33 @@
+# Build output
+build/
+out/
+cmake-build-*/
+bin/
+obj/
+Debug/
+Release/
+x64/
+
+# Compiled objects and libraries
+*.obj
+*.o
+*.so
+*.dll
+*.lib
+*.exe
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python helper scripts (tooling, notebooks)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
